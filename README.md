@@ -1,5 +1,5 @@
 
-### 🎟️ Ticket #004 – **"Wildcard Warriors: Organize the Data Ops Mess"**
+### 🎟️ Ticket #003 – **"Wildcard Warriors: Organize the Data Ops Mess"**
 
 #### 🔧 Focus: Wildcards, File Movement, and Directory Awareness (from parent dirs)
 
